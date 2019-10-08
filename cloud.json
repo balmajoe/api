@@ -2,7 +2,7 @@
   {
     "cloud":"Asia",
     "availability":{
-      "last15Min":"100%",
+      "last15Min":"10%",
       "last24Hour":"100%"
     },
     "data_centers":[
@@ -10,13 +10,13 @@
         "title":"Bombay",
         "availability":{
           "last15Min":"100%",
-          "last24Hour":"100%"
+          "last24Hour":"10%"
         }
       },
       {
         "title":"Bombay1",
         "availability":{
-          "last15Min":"100%",
+          "last15Min":"1000%",
           "last24Hour":"100%"
         }
       }
@@ -32,14 +32,14 @@
       {
         "title": "Bombay",
         "availability": {
-          "last15Min": "100%",
+          "last15Min": "10%",
           "last24Hour": "100%"
         }
       },
       {
         "title":"Bombay1",
         "availability":{
-          "last15Min":"100%",
+          "last15Min":"10000%",
           "last24Hour":"100%"
         }
       }
