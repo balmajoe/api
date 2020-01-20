@@ -1,48 +1,38 @@
-[
-  {
-    "cloud":"Asia",
-    "availability":{
-      "last15Min":"10%",
-      "last24Hour":"100%"
-    },
-    "data_centers":[
-      {
-        "title":"Bombay",
-        "availability":{
-          "last15Min":"100%",
-          "last24Hour":"10%"
+{
+    "opk_ckt_20191217_9": [
+        {
+            "measurement": "new_psa",
+            "tags": {
+                "vm_name": "test-2",
+                "bis": "ITIA",
+                "project_name": "stef",
+                "vm_id": "749fe2d5-db07-4cca-b9e1-74ec61d2e35e",
+                "project_id": "acf8912d419c424dba64f5cda7848f5d",
+				"months":"decembre"
+            },
+            "fields": {
+                "mem_cost": 35,
+                "mem_qty": 52
+            },
+            "time": "2019-12-19"
         }
-      },
-      {
-        "title":"Bombay1",
-        "availability":{
-          "last15Min":"1000%",
-          "last24Hour":"100%"
+    ],
+    "opk_ckt_20191217_41": [
+        {
+            "measurement": "new_psa",
+            "tags": {
+                "vm_name": "cloudkitty",
+                "bis": "ASSP",
+                "project_name": "josue",
+                "vm_id": "565f3310-984d-4f66-affd-fc61ce2a04b3",
+                "project_id": "b90a02d54c5c4ce08bbcca80f9d165d9",
+				"months":"decembre"
+            },
+            "fields": {
+                "cpu_cost":  549,
+                "cpu_qty": 96
+            },
+            "time": "2019-12-19"
         }
-      }
     ]
-  },
-  {
-    "cloud":"Europe",
-    "availability":{
-      "last15Min":"100%",
-      "last24Hour":"100%"
-    },
-    "data_centers":[
-      {
-        "title": "Bombay",
-        "availability": {
-          "last15Min": "10%",
-          "last24Hour": "100%"
-        }
-      },
-      {
-        "title":"Bombay1",
-        "availability":{
-          "last15Min":"10000%",
-          "last24Hour":"100%"
-        }
-      }
-    ]
-  }
-]
+}
