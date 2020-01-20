@@ -1,22 +1,6 @@
-[
-    {
-        "id": 777,
-        "abc_programid": "777777-1111-2222-333-444444",
-        "clientName": "client one B"
-    },
-    {
-        "id": 778,
-        "abc_programid": "777777-1111-2222-333-444444",
-        "clientName": "cliente - AB"
-    },
-    {
-        "id": 772,
-        "abc_programid": "777777-1111-2222-333-444444",
-        "clientName": "clie one - AB"
-    },
-    {
-        "id": 77,
-        "abc_programid": "777777-1111-2222-333-444444",
-        "clientName": "client o - AB"
-    }
-]
+{
+    'nom' : 'Martin',
+    'age' : '23 ans',
+    'ville' : 'Annecy',
+    'domaine' : 'HTML5, CSS, JavaScript'
+}
