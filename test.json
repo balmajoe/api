@@ -12,13 +12,13 @@
     "dict" : "HTMaScript"
 },
 {
-    "vm" : "bala",
+    "vm" : "reala",
     "appli" : "2beo",
     "bis" : "ndjnecy",
     "dict" : "belfort"
 },
 {
-    "vm" : "bala",
+    "vm" : "vm01",
     "appli" : "2beo",
     "bis" : "ndjnecy",
     "dict" : "HTMaScript"
@@ -60,15 +60,15 @@
     "dict" : "HTMaScript"
 },
 {
-    "vm" : "bala",
+    "vm" : "trace",
     "appli" : "2beo",
     "bis" : "ndjnecy",
     "dict" : "belfort"
 },
 {
-    "vm" : "bala",
+    "vm" : "manifest",
     "appli" : "2beo",
-    "bis" : "ndjnecy",
-    "dict" : "HTMaScript"
+    "bis" : "jnecy",
+    "dict" : "MaScript"
 }
 ]
